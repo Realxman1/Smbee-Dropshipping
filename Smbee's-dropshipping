@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SMBee Dropshipping</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f8fb;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #0073e6;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #ffffff;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1, h2 {
+            color: #0073e6;
+        }
+        .contact {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .social-links a {
+            color: #0073e6;
+            text-decoration: none;
+            margin: 0 10px;
+            font-size: 1.2em;
+        }
+        .social-links a:hover {
+            color: #005bb5;
+        }
+        footer {
+            background-color: #0073e6;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welcome to SMBee Dropshipping</h1>
+    <p>Your journey into the world of e-commerce starts here!</p>
+</header>
+
+<div class="container">
+    <section>
+        <h2>About Me</h2>
+        <p>Hi there! I’m passionate about starting a dropshipping business and helping others discover the incredible potential of e-commerce. With the right strategies and tools, I believe dropshipping can be a successful venture for anyone willing to put in the work.</p>
+    </section>
+
+    <section>
+        <h2>My Dropshipping Journey</h2>
+        <p>I’m currently exploring various product niches, identifying suppliers, and learning how to create a seamless customer experience. My goal is to build a dropshipping business that meets customer needs efficiently while maintaining quality and trust.</p>
+    </section>
+
+    <section>
+        <h2>Contact Me</h2>
+        <p>Feel free to connect with me on social media or reach out via WhatsApp to discuss dropshipping, share tips, or ask questions!</p>
+        <div class="social-links">
+            <a href="https://instagram.com/smbee_sojerh" target="_blank">Instagram</a> |
+            <a href="https://wa.me/2349168335368" target="_blank">WhatsApp</a>
+        </div>
+    </section>
+</div>
+
+<footer>
+    <p>&copy; 2024 SMBee Dropshipping. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
